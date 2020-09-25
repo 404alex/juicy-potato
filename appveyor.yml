@@ -5,7 +5,7 @@ build:
   parallel: true
   verbosity: minimal
 artifacts:
-- path: JuicyPotato\Release\x64\*.exe
+- path: JuicyPotato\Release\x86\*.exe
 only_commits:
   files:
     - JuicyPotato/
